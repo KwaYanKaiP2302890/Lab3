@@ -40,7 +40,7 @@ def bubble_sort(arr, sorting_order):
 
 def main():
     # Driver code to test above
-    arr = [64, 34, 25, 12, 22, 11, 90]
+    arr = [64, 34, 25, 12, 22, 11, 91]
 
     # Sort in ascending order
     result = bubble_sort(arr, SORT_ASCENDING)
